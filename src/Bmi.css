@@ -1,0 +1,33 @@
+.main {
+   min-height: 100vh;
+   padding: 0;
+   margin: 0;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+.info-input {
+   width: 270px;
+   padding: 10px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+button {
+   font-size: 15px;
+   background-color: bisque;
+   padding: 10px;
+   border: none;
+   border-radius: 10px;
+   cursor: pointer;
+}
+.Under {
+   color: rgb(241, 92, 244);
+}
+.Over {
+   color: Red;
+}
+.Normal {
+   color: rgb(137, 236, 66);
+}
